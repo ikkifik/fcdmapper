@@ -20,4 +20,8 @@ How to install:
     conda create --name fcdmapper python=3.8
     conda activate fcdmapper
 
-    pip install numpy scikit-learn rasterio
+    pip install -r requirements.txt
+
+    or 
+
+    pip install numpy scikit-learn numpy
