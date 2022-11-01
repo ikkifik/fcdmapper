@@ -1,5 +1,6 @@
 # Forest Canopy Density(FCD) Mapper
 
+Support documenting for "how-to-run" fcdmapper code  
 source: https://ahmedhasan.info/2021/04/30/fcd-python/
 
 Requirements:
