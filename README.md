@@ -24,4 +24,4 @@ How to install:
 
     or 
 
-    pip install numpy scikit-learn numpy
+    pip install numpy scikit-learn rasterio
